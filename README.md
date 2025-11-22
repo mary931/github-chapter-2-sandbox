@@ -27,7 +27,9 @@ Une branche est une **ligne de développement indépendante** qui permet de :
 | ✅ **Sécurité** | Branche principale toujours stable |
 
 ---
+### Nous sommes le 22/11/2025
 
+Ici commence mes modifications de ce fichier. La leçon continue et le but est de maîtriser **les merges **ainsi que les** Pull request (PR)**
 ## 🛠️ Commandes Essentielles
 
 ### 📋 Gestion des branches
